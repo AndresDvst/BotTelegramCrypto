@@ -14,7 +14,8 @@ Bot de Telegram multiusuario para análisis de criptomonedas con dashboard web d
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <tu-repositorio>
+git clone https://github.com/AndresDvst/BotTelegramCrypto.git
+cd BotTelegramCrypto
 cd crypto_bot
 ```
 
